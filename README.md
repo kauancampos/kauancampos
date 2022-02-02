@@ -2,6 +2,8 @@ Olá, eu sou o Kauan
 - 💻 Aprendendo novas linguagens
 - 📚 Cursando Sistema de informação
 
+<img src="https://camo.githubusercontent.com/25c62e35eb1d859017c0dc6a85f91e863002c00266fb101e1ae48f2092ab1d48/68747470733a2f2f692e696d6775722e636f6d2f7034766e47414e2e676966" alt="Hello" data-canonical-src="https://i.imgur.com/p4vnGAN.gif" style="max-width: 100%;">
+
 <div>
 <a href="https://github.com/kauancampos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kauancampos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
