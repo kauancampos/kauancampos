@@ -3,7 +3,6 @@ Olá, eu sou o Kauan
 - 📚 Cursando Sistema de informação
 
 <img src="https://camo.githubusercontent.com/25c62e35eb1d859017c0dc6a85f91e863002c00266fb101e1ae48f2092ab1d48/68747470733a2f2f692e696d6775722e636f6d2f7034766e47414e2e676966" alt="Hello" data-canonical-src="https://i.imgur.com/p4vnGAN.gif" style="max-width: 100%;">
-<img src="https://steamuserimages-a.akamaihd.net/ugc/843713288758546608/8A56C53CF9133AF5633D9251BCDE1AA692C990BE/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" alt="Steam Community :: :: Cafe Leblanc" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 383px; height: 201.579px; margin: 0px;">
 
 <div>
 <a href="https://github.com/kauancampos">
