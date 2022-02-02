@@ -20,3 +20,4 @@ Olá, eu sou o Kauan
   <a href="https://www.linkedin.com/in/kauan-pablo-freitas-de-assis-campos-253aa3206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/kauancampos/kauancampos/blob/output/github-contribution-grid-snake.svg)
+<img src="https://camo.githubusercontent.com/25c62e35eb1d859017c0dc6a85f91e863002c00266fb101e1ae48f2092ab1d48/68747470733a2f2f692e696d6775722e636f6d2f7034766e47414e2e676966" alt="Hello" data-canonical-src="https://i.imgur.com/p4vnGAN.gif" style="max-width: 100%;">
