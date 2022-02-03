@@ -3,7 +3,6 @@ Olá, eu sou o Kauan
 - 📚 Cursando Sistema de informação
 
 <img src="https://camo.githubusercontent.com/25c62e35eb1d859017c0dc6a85f91e863002c00266fb101e1ae48f2092ab1d48/68747470733a2f2f692e696d6775722e636f6d2f7034766e47414e2e676966" alt="Hello" data-canonical-src="https://i.imgur.com/p4vnGAN.gif" style="max-width: 100%;">
-<img src="https://i.pinimg.com/originals/06/a8/5b/06a85b703ccc50fcc2214bac56214f48.gif" alt="A lot of posts tonight about people who can&amp;#39;t sleep. - Album on Imgur | Dark  souls art, Dark souls, Dark souls 3" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 434px; height: 227.333px; margin: 0px;">
 
 <div>
 <a href="https://github.com/kauancampos">
