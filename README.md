@@ -24,4 +24,3 @@ Cursando Bacharel em Sistemas de Infromação
  ##
  
 <img src="https://i.imgur.com/KtgxbBu.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Its my cake day today so i thought i would share some nice relaxing pixle  art - Album on Imgur" data-noaft="1" style="width: 433px; height: 249.408px; margin: 0px;">
-Sobre mim: 
