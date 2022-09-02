@@ -5,7 +5,7 @@ Cusando Bacharel em Sistemas de Infromação
 <div align="center">
   <a href="https://github.com/kauancampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauancampos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauancampos&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauancampos&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -21,4 +21,6 @@ Cusando Bacharel em Sistemas de Infromação
   <a href = "mailto:contate.kauancampos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauan-c-253aa3206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <img=">
+ ##
+ 
+<img src="https://i.imgur.com/KtgxbBu.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Its my cake day today so i thought i would share some nice relaxing pixle  art - Album on Imgur" data-noaft="1" style="width: 433px; height: 249.408px; margin: 0px;">
