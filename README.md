@@ -1,21 +1,21 @@
 ## Olá, me chamo Kauan
 
-Cursando Bacharel em Sistemas de Infromação
+Cursando Bacharelado em Sistemas de Infromação
 
 <div align="center">
   <a href="https://github.com/kauancampos">
   
-   <div>
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kauancampos&show_icons=true&theme=midnight-purple&include_height=27" alt="**SEU NOME** github stats"/>
-</a>
- <div/>  
-  <br>
-  <div>
+ <div>
   <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauancampos&theme=midnight-purple&include_langs_below=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kauancampos&show_icons=true&theme=midnight-purple&include_height=27" alt="kauancampos github stats"/>
   </a>
-  <div/>
+<div/> <br>
+       
+<div>
+  <a href="https://github.com/Gurupreet">
+    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauancampos&theme=midnight-purple&include_langs_below=1" />
+  </a>
+<div/>
     
 
 
