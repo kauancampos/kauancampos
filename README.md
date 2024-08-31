@@ -7,11 +7,10 @@
   
  <div>
   <a href="https://github.com/kauancampos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kauancampos&show_icons=true&theme=midnight-purple&include_height=27" alt="kauancampos github stats"/>
+    <img align="center" width = "500px" src="https://github-readme-stats.vercel.app/api?username=kauancampos&show_icons=true&theme=midnight-purple&include_height=27" alt="kauancampos github stats"/>
   </a>
-<div/> <br>
-       
-<div>
+
+
   <a href="https://github.com/kauancampos">
     <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauancampos&theme=midnight-purple&include_langs_below=1" />
   </a>
